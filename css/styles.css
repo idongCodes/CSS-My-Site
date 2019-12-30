@@ -1,0 +1,180 @@
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: 'Merriweather', serif;
+  ;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding: 0;
+}
+
+.mountain-img {
+  margin: 0 auto;
+  position: relative;
+  top: 4px;
+}
+
+p {
+  color: #40514E;
+}
+
+h1 {
+  margin: 0 auto;
+  padding: 150px 0 0 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+hr {
+  border-style: dotted none none none;
+  background-color: #EAF6F6;
+  border-width: 9px;
+  width: 5%;
+  opacity: 0.1;
+  margin: 128px auto;
+}
+
+.h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 1.5rem;
+  margin: 0 auto;
+  font-weight: normal;
+  line-height: 3;
+  position: relative;
+  right: 80px;
+  bottom: 50px;
+}
+
+.profilepic {
+  border-radius: 100%;
+  width: 225px;
+  margin: 96px auto 20px auto;
+}
+
+.skill-png {
+  border-radius: 100%;
+  display: inline-block;
+  width: 20%;
+  margin: 0 auto;
+}
+
+.front {
+  float: left;
+  margin-right: 30px;
+}
+
+.back {
+  float: right;
+  margin-left: 30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 370px;
+}
+
+.top-cloud {
+  padding: 135px 0 0 0;
+  position: absolute;
+  right: 375px;
+}
+
+.clouds {
+  margin: 0;
+  width: 10%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row p {
+  display: inline;
+}
+
+.middle-container p {
+  width: 500px;
+  margin: 0 auto 20px;
+  line-height: 2;
+}
+
+.contact-me {
+  margin-bottom: 130px;
+}
+
+.contact-me h3 {
+  margin-bottom: 32px;
+}
+
+.contact-me p {
+  margin-bottom: 70px;
+}
+
+.btn {
+  background-color: #11999E;
+  margin: 25px;
+  padding: 15px 20px;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background-color: #00888D;
+}
+
+.contact-btn {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin: 0 auto;
+  height: 125px;
+  padding-top: 60px;
+}
+
+.bottom-container a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-container p {
+  margin: 45px auto 0;
+  color: #EAF6F6;
+  font-size: 0.8em;
+  font-weight: lighter;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link {
+  margin: 0 25px;
+}
